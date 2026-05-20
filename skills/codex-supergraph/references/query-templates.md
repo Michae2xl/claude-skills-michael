@@ -326,7 +326,7 @@ Example variables:
   "query": {
     "maker": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045",
     "networkId": 1,
-    "tokenAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    "tokenAddress": "0x<token-address>"
   },
   "limit": 25
 }
